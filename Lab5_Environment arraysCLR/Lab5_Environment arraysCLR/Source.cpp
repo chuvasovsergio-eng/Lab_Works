@@ -1,3 +1,4 @@
+// Лабораторна робота №5. Перевірка коду
 #include <windows.h>
 
 using namespace System;
